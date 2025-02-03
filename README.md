@@ -22,7 +22,7 @@ sudo go build main.go
 
 # What happens:
 
-Lightly scans entire network for basic vulnerabilities and save them to the users home folder (~) in
+Lightly scans entire network for basic vulnerabilities and save log files to the users home folder (~) in
 a directory called vulnerabilities_dir
 
 /home/username/vulnerabilities_dir
