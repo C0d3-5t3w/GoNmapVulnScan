@@ -1,4 +1,7 @@
 # GoNmapVulnScan
+
+Must have Nmap installed.
+
 # What happens:
 
 Lightly scans entire network for basic vulnerabilities and saves log files to the users home folder (~) in
